@@ -1,1 +1,0 @@
-file=open('C:\Users\KOTRESHA\Desktop\flowdata1.pickle','rb')
